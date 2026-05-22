@@ -1,0 +1,1 @@
+This is a hospital management system that tracks All the employee's details. A recruiter can add, update,delete and retrive Employees Information that includes employee's:Department, Post, And recruitment date
